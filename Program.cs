@@ -1,5 +1,25 @@
-﻿using ScreenSound.Menus;
+﻿using ScreenSound.Banco;
+using ScreenSound.Menus;
 using ScreenSound.Modelos;
+
+try
+{
+    var artistaDAL = new ArtistaDAL();
+    artistaDAL.Atualizar("teste3", new Artista("Natiruts", "Formada em 1996 em Brasília, a banda de reggae Natiruts, inicialmente chamada Nativus, é conhecida por suas letras positivas e energéticas. Com uma forte identificação com o público, a banda se destaca por sua mensagem de amor e boas vibrações."));
+
+    var listaArtistas = artistaDAL.Listar();
+
+    foreach (var artista in listaArtistas)
+    {
+        Console.WriteLine(artista);
+    }
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
+return;
 
 Artista ira = new Artista("Ira!", "Banda Ira!");
 Artista beatles = new("The Beatles", "Banda The Beatles");
