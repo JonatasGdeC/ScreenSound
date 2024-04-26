@@ -1,0 +1,28 @@
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+T:\Bitcube\Cursos\projetos\Curso - Persistindo dados\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+T:\Bitcube\Cursos\projetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
