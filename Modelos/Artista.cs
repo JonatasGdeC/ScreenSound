@@ -2,7 +2,7 @@
 
 internal class Artista 
 {
-    private List<Musica> musicas = new List<Musica>();
+    private List<Artista> musicas = new List<Artista>();
 
     public Artista(string nome, string bio)
     {
@@ -16,7 +16,7 @@ internal class Artista
     public string Bio { get; set; }
     public int Id { get; set; }
 
-    public void AdicionarMusica(Musica musica)
+    public void AdicionarMusica(Artista musica)
     {
         musicas.Add(musica);
     }
